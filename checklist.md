@@ -1,7 +1,6 @@
 
 # Mobile Application Security Assessment Checklist
-**Version:** 1.0
-**Date:** January 08, 2026
+
 **Target:** Android / iOS
 
 ---
